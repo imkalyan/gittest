@@ -1,0 +1,25 @@
+  271  sudo apt-get install git
+  272* git config --global user.email "pawankalyanreddy"
+  273  ls
+  274  mkdir gittest
+  275  cd gittest
+  276  ls
+  277  echo "# gittest" >> README.md
+  278  git init
+  279  git add README.md
+  280  git commit -m "first commit"
+   git congig --global user.email "pawankalyandakkata@gmail.com"
+   git config --global user.email "pawankalyandakkata@gmail.com"
+   git commit -m "first commit"
+   git remote add origin https://github.com/pawankalyanreddy/gittest.git
+   git push -u origin master
+   ls
+   nano intial.txt
+   ls
+   nano intial.txt
+   git add intial.txt
+   git commit -m "i added  intial.txt"
+   git remote add origin https://github.com/pawankalyanreddy/gittest.git
+   git push -u origin master
+   nano test.txt
+
